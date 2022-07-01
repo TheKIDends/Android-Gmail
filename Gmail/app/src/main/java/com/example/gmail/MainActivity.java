@@ -93,7 +93,7 @@ public class MainActivity extends AppCompatActivity {
                          R.drawable.o,R.drawable.p,R.drawable.q,R.drawable.r,R.drawable.s,R.drawable.t,R.drawable.u,
                          R.drawable.v,R.drawable.w,R.drawable.x,R.drawable.y,R.drawable.z, R.drawable.avatar};
         String[] name = {"Author","Codeforces","Topcoder Team","Dribbble","HackerEarth","CodeChef","DeviantArt","1AtCoder","P.A.I.M.O.N"};
-        String[] lastMessage = {"Nguyen Dac Thai","Educational Codeforces Round 130 (Rated for Div. 2)","Rapid Development Match 7 - Topcoder RDM 7 submission phase is scheduled to start at 08:00 UTC-4 on June 10th, 2022",
+        String[] lastMessage = {"Nguyen Chau Khanh","Educational Codeforces Round 130 (Rated for Div. 2)","Rapid Development Match 7 - Topcoder RDM 7 submission phase is scheduled to start at 08:00 UTC-4 on June 10th, 2022",
                                 "Get more eyes on your portfolio - 3 ways to boost traffic to your design portfolio","Hiring Challenges, Hackathons & Coding Contests", "May Long Challenge II Starts Tomorrow 3 PM IST | Sponsored by Edology",
                                 "DeviantArt Digest: Pride month, new badges, and more!","AtCoder Beginner Contest 254 Announcement","Genshin Impact | Yelan coming soon! Join the web event to get primogems and other rewards!"};
         String[] lastmsgTime = {"01:30 pm","12:34 pm","7:34 pm","6:32 am","5:76 am", "5:00 am","7:34 pm","2:32 am","7:76 am"};

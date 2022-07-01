@@ -22,7 +22,7 @@ Cores: 4
 
 ## Demo
 
-### Cource code
+### Source code
 
 ![](https://raw.githubusercontent.com/TheKIDends/Android-Gmail/main/Code_demo.png)
 
